@@ -1,0 +1,10 @@
+[package]
+name = "lithosphere"
+version = "0.1.0"
+authors = ["miranda"]
+
+
+[dependencies]
+image = "*"
+rand = "0.3.8"
+noise = "0.1.5"
